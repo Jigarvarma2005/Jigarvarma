@@ -35,7 +35,7 @@ export default function footer() {
 
          <li className="list-inline-item">
             <a
-              href={"emailto:" + config.email}
+              href={"mailto:" + config.email}
               className="btn-floating btn-tw mx-1"
             >
               <img
