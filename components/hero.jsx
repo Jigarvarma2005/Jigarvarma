@@ -32,6 +32,7 @@ export default function Hero() {
       >
         Telegram me
       </button>
+      &nbsp;
       <button
         className={"btn btn-primary btn-md active mt-4"}
         onClick={() => EmailAlertIt()}
