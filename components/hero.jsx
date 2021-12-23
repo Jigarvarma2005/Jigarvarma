@@ -9,7 +9,7 @@ export default function Hero() {
   }
 
   function EmailAlertIt() {
-    if (window.confirm("Send Email?"))
+    if (window.confirm("Send mail to ${config.email} ?"))
       window.location = `mailto:${config.email}`;
   }
 
