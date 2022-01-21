@@ -35,7 +35,7 @@ export default function Languages() {
       </div>
 
       <div className="grid-flex">
-        <img src="https://raw.githubusercontent.com/pyrogram/logos/fe16a72cae833fcabf1f79ca0b33cee6af2f3bc3/logos/pyrogram.svg" />
+        <img src="https://camo.githubusercontent.com/23bd8586f8d0549172b03886618d5337c7c3f655220d81d35ce837b62639419d/68747470733a2f2f646f63732e7079726f6772616d2e6f72672f5f7374617469632f7079726f6772616d2e706e67" />
       </div>
       <div className="lang">
         <h1>
