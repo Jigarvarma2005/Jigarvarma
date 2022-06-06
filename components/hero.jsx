@@ -39,6 +39,8 @@ export default function Hero() {
       >
         Email me
       </button>
+      &nbsp;
+     <iframe src="https://github.com/sponsors/Jigarvarma2005/button" title="Sponsor Jigarvarma2005" height="35" width="116" style="border: 0;"></iframe>
     </div>
   );
 }
