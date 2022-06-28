@@ -23,7 +23,7 @@ const siteName = "Jigarvarma"
         <meta name="twitter:card" content="summary_large_image" key="twcard" />
         <meta property="og:description" content={description} key="ogdesc" />
         <meta name="twitter:creator" content="@jigarvarma2005" key="twhandle" />
-        
+        <script async src="https://arc.io/widget.min.js#Dz26HcCg"></script>
 
         {/* Open Graph */}
         <meta property="og:url" content="https://jigarvarma.vercel.app/" key="ogurl" />
