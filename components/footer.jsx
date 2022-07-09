@@ -13,8 +13,8 @@ export default function footer() {
             >
               <img
                 style={{ width: "35px", height: "35px" }}
-                src={"https://img.icons8.com/doodle/48/000000/facebook-new.png"}
-                alt="github"
+                src={"https://img.icons8.com/fluent/48/000000/facebook-new.png"}
+                alt="facebook"
               />
             </a>
           </li>
@@ -40,7 +40,7 @@ export default function footer() {
             >
               <img
                 style={{ width: "35px", height: "35px" }}
-                src="https://i.ibb.co/gJTDRKH/emovebg-preview-2.png"
+                src="https://img.icons8.com/fluent/48/000000/mail.png"
                 alt="Email"
               />
             </a>
@@ -67,7 +67,7 @@ export default function footer() {
             >
               <img
                 style={{ width: "35px", height: "35px" }}
-                src="https://img.icons8.com/doodle/48/000000/github.png"
+                src="https://img.icons8.com/fluent/48/000000/github.png"
                 alt="github"
               />
             </a>
