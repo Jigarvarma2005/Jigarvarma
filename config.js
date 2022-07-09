@@ -3,7 +3,7 @@ export default {
   githubUsername: "jigarvarma2005",
   websiteName: "@Jigarvarma2005",
   heroHead: "Hey There !!",
-  heroText: "Jigar Varma is here , I’m ",
+  heroText: "Jigar Varma here , I’m ",
   email: "contact@jigarvarma.tech",
   facebookUsername: "jigarvarma2005",
   instaUsername: "jigarvarma2005",
