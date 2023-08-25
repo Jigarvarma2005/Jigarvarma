@@ -30,14 +30,14 @@ export default function Hero() {
         className={"btn btn-primary btn-md active mt-4"}
         onClick={() => AlertIt()}
       >
-        Telegram me
+        Telegram
       </button>
       &nbsp;
       <button
         className={"btn btn-primary btn-md active mt-4"}
         onClick={() => EmailAlertIt()}
       >
-        Email me
+        Email
       </button>
     </div>
   );
