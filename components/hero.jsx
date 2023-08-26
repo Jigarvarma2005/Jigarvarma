@@ -8,11 +8,6 @@ export default function Hero() {
       window.location = `https://t.me/${config.tgUsername}`;
   }
 
-  function EmailAlertIt() {
-    if (window.confirm(`Send mail to ${config.email} ?`))
-      window.location = `mailto:${config.email}`;
-  }
-
   return (
     <div className={"container mt-5"}>
       <h3>
@@ -30,14 +25,7 @@ export default function Hero() {
         className={"btn btn-primary btn-md active mt-4"}
         onClick={() => AlertIt()}
       >
-        Telegram
-      </button>
-      &nbsp;
-      <button
-        className={"btn btn-primary btn-md active mt-4"}
-        onClick={() => EmailAlertIt()}
-      >
-        Email
+        Telegram me
       </button>
     </div>
   );
