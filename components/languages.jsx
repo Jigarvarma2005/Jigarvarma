@@ -30,15 +30,6 @@ export default function Languages() {
       {/*  Frameworks */}
       <div className="lang">
         <h1>
-          <span className="badge badge-danger">Libraries</span>
-        </h1>
-      </div>
-
-      <div className="grid-flex">
-        <img src="https://camo.githubusercontent.com/23bd8586f8d0549172b03886618d5337c7c3f655220d81d35ce837b62639419d/68747470733a2f2f646f63732e7079726f6772616d2e6f72672f5f7374617469632f7079726f6772616d2e706e67" />
-      </div>
-      <div className="lang">
-        <h1>
           <span className="badge badge-danger">Fav Database</span>
         </h1>
       </div>
@@ -55,7 +46,6 @@ export default function Languages() {
 
       <div className="grid-flex">
         <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" />
-        <img src="https://img.icons8.com/color/480/000000/intellij-idea.png" />
         <img src="https://img.icons8.com/color/480/000000/pycharm.png" />
         <img src="https://img.icons8.com/color/144/000000/git.png" />
         <img src="https://img.icons8.com/color/480/000000/docker.png" />
