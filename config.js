@@ -4,7 +4,6 @@ export default {
   websiteName: "@Jigarvarma2005",
   heroHead: "Hey There !!",
   heroText: "Jigar Varma here , I’m ",
-  email: "contact@jigarvarma.tech",
   facebookUsername: "jigarvarma2005",
   instaUsername: "jigarvarma2005",
   typedArray : ["BCA Student ....","Open-source Developer ....","Learning C++ ....","Indian🇮🇳❤️ ....", "Self Learner ....","Learning C/C++ ....","Learning python3 ...."]
