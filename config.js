@@ -6,5 +6,5 @@ export default {
   heroText: "Jigar Varma here , I’m ",
   facebookUsername: "jigarvarma2005",
   instaUsername: "jigarvarma2005",
-  typedArray : ["BCA Student ....","Open-source Developer ....","Learning C++ ....","Indian🇮🇳❤️ ....", "Self Learner ....","Learning C/C++ ....","Learning python3 ...."]
+  typedArray : ["Open-source Developer ....","Learning C++ ....","Indian🇮🇳❤️ ....", "Self Learner ....","Learning C/C++ ....","Learning python3 ...."]
 };
