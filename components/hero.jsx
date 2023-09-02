@@ -3,8 +3,13 @@ import Typed from "react-typed";
 import config from "../config";
 
 export default function Hero() {
+  function EmailAlertIt() {
+    if (window.confirm(`Send mail to ${config.email} ?`))
+      window.location = `mailto:${config.email}`;
+  }
+  
   function AlertIt() {
-    if (window.confirm("open Telegram?"))
+    if (window.confirm("Open Telegram?"))
       window.location = `https://t.me/${config.tgUsername}`;
   }
 
@@ -26,6 +31,13 @@ export default function Hero() {
         onClick={() => AlertIt()}
       >
         Telegram me
+      </button>
+      &nbsp;
+      <button
+        className={"btn btn-primary btn-md active mt-4"}
+        onClick={() => EmailAlertIt()}
+      >
+        Email me
       </button>
     </div>
   );
